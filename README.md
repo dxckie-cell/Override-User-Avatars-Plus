@@ -5,7 +5,7 @@ Revenge plugin that replaces the profile picture of any Discord users, using the
 ## Install
 Paste this link into the Install Plugin section of Revenge:
 
-https://dxckie-cell.github.io/Override-User-Avatars-Revenge-Plugin-/Override-User-Avatars/
+https://dxckie-cell.github.io/Override-User-Avatars-Plus/Override-User-Avatars/
 
 ## Usage
 In the plugin settings, tap "+ Add user" and enter each user's ID and image URL. Changes apply immediately.
